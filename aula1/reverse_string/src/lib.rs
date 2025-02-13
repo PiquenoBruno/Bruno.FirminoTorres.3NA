@@ -1,3 +1,3 @@
-pub fn reverse(input: &str) -> String {
-    input.chars().rev().collect()
+pub fn inverter(s: &str) -> String {
+    s.chars().rev().collect()
 }
