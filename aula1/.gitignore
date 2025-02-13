@@ -1,0 +1,14 @@
+# compilação do Rust
+/target/
+
+# configuração do IDE
+**/Cargo.lock
+*.toml
+*.iml
+
+# configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# outras ignorações específicas
+*.rs.bk
