@@ -1,4 +1,4 @@
-// Uma lista ligada simples usando Box e Option.
+// Uma lista ligada simples usando Box e Option. testanto se fizer commit vc le isso
 pub struct List<T> {
     head: Option<Box<Node<T>>>,
 }
@@ -48,6 +48,6 @@ mod tests {
         assert_eq!(list.pop(), Some(30));
         assert_eq!(list.pop(), Some(20));
         assert_eq!(list.pop(), Some(10));
-        assert_eq!(list.pop(), None);
+        assert_eq!(list.pop(), None)
     }
 }
