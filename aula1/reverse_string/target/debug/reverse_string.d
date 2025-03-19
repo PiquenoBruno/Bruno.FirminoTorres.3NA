@@ -1,0 +1,1 @@
+/workspaces/Bruno.FirminoTorres.3NA/aula1/reverse_string/target/debug/reverse_string: /workspaces/Bruno.FirminoTorres.3NA/aula1/reverse_string/src/main.rs /workspaces/Bruno.FirminoTorres.3NA/aula1/reverse_string/src/utils.rs
